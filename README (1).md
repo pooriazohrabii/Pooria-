@@ -19,7 +19,7 @@ pip install pandas matplotlib seaborn
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/pooriazohrabii/Pooria----
+git clone https://github.com/pooriazohrabii/Pooria-
 
 ### **گام 4: ذخیره و آپلود مجدد فایل**
 
