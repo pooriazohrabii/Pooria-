@@ -30,6 +30,10 @@ git clone https://github.com/pooriazohrabii/Pooria-
 ---
 
 همین چهار مرحله اولیه برای بهبود `README.md` هست. وقتی این کارها تموم شد، بهم بگو که ادامه بدیم و بریم سراغ بهبود کد تحلیل و نمودارها!
+## 📁 فایل‌های خروجی
+
+- [دانلود news_data.csv](https://github.com/pooriazohrabii/Pooria-/blob/main/news_data.csv)
+- [دانلود news_data.json](https://github.com/pooriazohrabii/Pooria-/blob/main/news_data.json)
 
 # Data Analysis Project: Iranian Real Estate Dataset
 
