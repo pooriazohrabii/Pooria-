@@ -20,3 +20,9 @@
 import pandas as pd
 df = pd.read_csv('news_data.csv')
 df['تاریخ _جمع آوری'] = pd.to_datetime(df['تاریخ _جمع آوری'])
+## فایل خروجی تحلیل احساسات
+
+فایل `analyzed_news_data.csv` شامل عناوین اخبار به‌همراه تحلیل احساسات آن‌هاست.  
+این فایل پس از اجرای مراحل پیش‌پردازش و تحلیل احساسات با استفاده از پکیج‌های فارسی تولید شده است.
+
+[مشاهده فایل در گیت‌هاب](https://github.com/pooriazohrabii/Pooria-/blob/main/analyzed_news_data.csv)
