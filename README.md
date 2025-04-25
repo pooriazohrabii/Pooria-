@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/News_Analysis.ipynb)
 # تحلیل اخبار
 
 این پروژه با استفاده از زبان پایتون، عناوین اخبار را از یک وب‌سایت خبری جمع‌آوری کرده و آن‌ها را تحلیل می‌کند. هدف پروژه، تمرین کار با داده‌های متنی، تحلیل ساده، مصورسازی و ایجاد یک نمونه‌کار قابل ارائه در گیت‌هاب و رزومه است.
