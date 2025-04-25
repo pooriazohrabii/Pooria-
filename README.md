@@ -27,3 +27,15 @@ df['تاریخ _جمع آوری'] = pd.to_datetime(df['تاریخ _جمع آور
 این فایل پس از اجرای مراحل پیش‌پردازش و تحلیل احساسات با استفاده از پکیج‌های فارسی تولید شده است.
 
 [مشاهده فایل در گیت‌هاب](https://github.com/pooriazohrabii/Pooria-/blob/main/analyzed_news_data.csv)
+## نکات فنی پروژه
+
+- زبان برنامه‌نویسی: Python
+- محیط اجرا: Google Colab
+- کتابخانه‌های مورد استفاده: pandas, matplotlib, wordcloud, parsivar
+- داده‌ها: فایل CSV از اخبار فارسی شامل عنوان خبر، لینک، و تاریخ جمع‌آوری
+
+## اجرای پروژه
+
+برای اجرای سریع پروژه در Google Colab روی دکمه زیر کلیک کنید:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/News_Analysis.ipynb)
