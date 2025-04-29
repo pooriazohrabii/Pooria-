@@ -23,7 +23,7 @@
 
 ## پوستر پروژه
 
-![پوستر](poster/Poster.png)
+![پوستر](Poster.png)
 
 ## اجرا در Google Colab
 
