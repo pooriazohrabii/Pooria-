@@ -1,6 +1,4 @@
-# تحلیل داده‌های خبری
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/final_project.ipynb)
+# تحلیل داده‌های 
 
 این پروژه به بررسی و تحلیل داده‌های مربوط به عناوین خبری می‌پردازد. مراحل انجام پروژه شامل موارد زیر است:
 
@@ -20,12 +18,11 @@
 
 - [دانلود گزارش فارسی](reports/گزارش_نهایی_فارسی.pdf)
 - [Download English Report](reports/Final_Report_EN.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/Copy%20of%20Untitled3.ipynb)
+
 ## پوستر پروژه
 
 ![پوستر](Poster.png)
-
-## اجرا در Google Colab
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/Copy%20of%20Untitled3.ipynb)
+## اجرا 
 برای اجرای پروژه روی Google Colab روی دکمه بالا کلیک کنید.
 
