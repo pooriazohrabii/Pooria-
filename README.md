@@ -1,37 +1,31 @@
-# تحلیل اخبار فارسی
+# تحلیل داده‌های خبری
 
-[![اجرای پروژه در Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/News_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pooriazohrabii/Pooria-/blob/main/final_project.ipynb)
 
-## درباره پروژه
-این پروژه با هدف تحلیل مجموعه‌ای از اخبار فارسی انجام شده است. شامل مراحل مختلفی از جمله:
-- پاک‌سازی و پیش‌پردازش داده‌ها
+این پروژه به بررسی و تحلیل داده‌های مربوط به عناوین خبری می‌پردازد. مراحل انجام پروژه شامل موارد زیر است:
+
+- پاک‌سازی داده‌ها
 - تحلیل زمانی
-- تحلیل فراوانی کلمات
-- تحلیل احساسات (Sentiment Analysis)
-- مصورسازی نتایج
+- تحلیل احساسات اخبار
+- مصورسازی داده‌ها
 
-## ویژگی‌ها
-- استفاده از کتابخانه‌های Pandas، Matplotlib، Parsivar و WordCloud
-- پشتیبانی از متون فارسی
-- نمودارهای زمانی و بصری‌سازی واژه‌ها
-- برچسب‌گذاری احساسات بر اساس عنوان خبرها
+## فایل‌ها
 
-## ساختار فایل‌ها
-| نام فایل | توضیح |
-|----------|-------|
-| `news_data.csv` | فایل داده‌ی ورودی شامل اخبار |
-| `News_Analysis.ipynb` | نوت‌بوک اصلی پروژه برای اجرای تحلیل‌ها |
-| `README.md` | توضیحات پروژه |
+- `final_project.ipynb`: نوت‌بوک اصلی تحلیل داده
+- `news_data.csv`: دیتاست خام
+- `reports/`: شامل گزارش PDF فارسی و انگلیسی
+- `poster/`: پوستر پروژه
 
-## نصب و اجرا
-برای اجرای پروژه کافیست مراحل زیر را طی کنید:
+## گزارش‌ها
 
-1. نوت‌بوک را از گیت‌هاب باز کنید یا روی دکمه بالا کلیک کنید.
-2. در Google Colab، سلول‌ها را به ترتیب اجرا کنید.
-3. در صورت نیاز، فایل `news_data.csv` را به محیط Google Colab آپلود کنید.
+- [دانلود گزارش فارسی](reports/گزارش_نهایی_فارسی.pdf)
+- [Download English Report](reports/Final_Report_EN.pdf)
 
-## وابستگی‌ها
-پروژه از کتابخانه‌های زیر استفاده می‌کند:
+## پوستر پروژه
 
-```bash
-!pip install pandas matplotlib wordcloud parsivar
+![پوستر](poster/poster.png)
+
+## اجرا در Google Colab
+
+برای اجرای پروژه روی Google Colab روی دکمه بالا کلیک کنید.
+
